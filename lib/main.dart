@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: const Center(child: Text("University of Jaffna")),
-          backgroundColor: Colors.greenAccent[700],
+          backgroundColor: Colors.yellowAccent.shade100,
         ),
         body: const Center(
             child: Image(
